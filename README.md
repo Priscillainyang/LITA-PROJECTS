@@ -8,17 +8,17 @@ Data Cleaning, Analysis, and Querying using Excel, SQL and Power BI.
 
 [Project Overview](#Project-Overview)
 
-Data Source
+[Data Source](#Data-Source)
 
-Tools Used
+[Tools Used](#Tool-Used)
 
-Data cleansing and preparations
+[Data cleansing and preparations](#Data-cleansing-and-preparations)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
-Data Analysis
+[Data Analysis](#Data-Analysis)
 
-Data Visualization
+[Data Visualization](#Data-Visualization)
 
 
 ### Project Overview
